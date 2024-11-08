@@ -15,53 +15,53 @@ The Database file name is [db.sql](https://github.com/indracahyae/crimenesia_web
 * manage crimes
 * manage profil
 
-##  Used Technology
+##  Tech Stack
 * [MySql](https://www.mysql.com/) database
 * [Laravel 5.4](https://laravel.com/docs/5.4) (PHP Framework)
 * [jQuery](https://jquery.com/) (javascript UI library)
 * [Semantic](https://semantic-ui.com/) (UI Framework)
 * [Noty](https://ned.im/noty/#/) (javascript library for notification)
 
-##  Screen Shoot Application
+##  Screenshot
 ###  Screen Shoot of Administrator
-This is a login page.
+Login.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/login.png?raw=true)
 <br><br>
 Top Menu.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/menu1.png?raw=true)
 <br><br>
-Profile page.
+Profile.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/profile.png?raw=true)
 <br><br>
-This is manage society page.
+Manage society.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/manageSociety.png?raw=true)
 <br><br>
-This is detail society.
+Detail society.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/manageSocietyDetail.png?raw=true)
 <br><br>
-This is manage Police Station page.
+Manage Police Station.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/managePoliceStation.png?raw=true)
 <br><br>
-This is detail Police Station.
+Detail Police Station.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/managePoliceStationDetail.png?raw=true)
 <br><br>
-This is form (create & edit) Police Station.
+Form (create & edit) Police Station.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/managePoliceStationForm.png?raw=true)
 <br><br>
-This is manage Police page.
+Manage Police.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/managePolice.png?raw=true)
 <br><br>
-This is detail Police.
+Detail Police.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/managePoliceDetail.png?raw=true)
 <br><br>
-This is manage Admin page.
+Manage Admin.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/manageAdmin.png?raw=true)
 <br><br>
-This is Form (create & edit) Admin.
+Form (create & edit) Admin.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/admin/manageAdminForm.png?raw=true)
 <br><br>
 ###  Screen Shoot of Police
-This is login page.
+Login.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/login.png?raw=true)
 <br><br>
 Top Menu.
@@ -70,28 +70,28 @@ Top Menu.
 Top Menu.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/menu2.png?raw=true)
 <br><br>
-Profile page.
+Profile.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/profile.png?raw=true)
 <br><br>
-This is manage doer.
+Manage doer.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/managePelaku.png?raw=true)
 <br><br>
-This is form (create & edit) doer.
+Form (create & edit) doer.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/managePelakuForm.png?raw=true)
 <br><br>
-This is manage crime.
+Manage crime.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/manageCrime.png?raw=true)
 <br><br>
-This is detail Crime.
+Detail Crime.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/manageCrimeDetailData.png?raw=true)
 <br><br>
-This is form (create & edit) Crime.
+Form (create & edit) Crime.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/manageCrimeForm.png?raw=true)
 <br><br>
 crime menu.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/manageCrimeMenu.png?raw=true)
 <br><br>
-This is complaint pages.
+Complaint.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/listDataLapor.png?raw=true)
 <br><br>
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/laporDetailKriminalitas.png?raw=true)
@@ -100,7 +100,7 @@ This is complaint pages.
 <br><br>
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/dataLaporPolice.png?raw=true)
 <br><br>
-This is police members pages.
+Police members.
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/anggotaPolisi.png?raw=true)
 <br><br>
 ![](https://github.com/indracahyae/crimenesia_web/blob/admin/img/police/cariAnggotaPolisi.png?raw=true)
